@@ -8,5 +8,7 @@ Usage:
 python main.py /full/path/to/folder/to/watch
 
 Use case:
-This was created for users who have a need to watch a mounted server volume for incoming work, which appears as folders that are labeled with green Finder tags.
-Users do not have admin rights on their work computers, and cannot install modules or run cron jobs, so this is initially written python2 to utilize the mac builtin version of python.
+This was created for users who have a need to watch a mounted server volume for incoming work, which appears as folders 
+that are labeled with green Finder tags.
+This was written for users do not have admin rights on their work computers, and thusly cannot install modules or run cron 
+jobs.  Because of these constraints, this is initially written in python2 to utilize the mac builtin version of python.
