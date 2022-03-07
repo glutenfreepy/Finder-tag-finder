@@ -16,5 +16,5 @@ Because of these constraints, this is initially written in python2 to utilize th
 
 Roadmap:
 - Python3 version
-- switch to argparse for customizable options (e.g. searching for different color tags, or different time intervals
+- Switch to argparse for customizable options (e.g. searching for different color tags, or different time intervals)
 - Gui?
